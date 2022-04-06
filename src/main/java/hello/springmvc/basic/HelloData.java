@@ -1,5 +1,6 @@
 package hello.springmvc.basic;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.Data;
 
 /**
